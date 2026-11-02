@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Скачать все картинки",
+  "version": "1.0",
+  "description": "Скачивает все изображения со страницы",
+  "permissions": [
+    "activeTab",
+    "downloads"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Скачать все картинки"
+  }
+}
